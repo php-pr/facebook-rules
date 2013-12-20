@@ -1,4 +1,4 @@
-Bem Vindos ao Grupo PHP PR	{#welcome}
+Bem Vindos ao Grupo PHP PR
 ==========================
 
 Bem vindos!
@@ -16,7 +16,7 @@ Por onde começar?
 **Pesquisa** O grupo tem como objetivo ajudar todos os desenvolvedores PHP dentro e fora do estado do Paraná.
 Mas que para sua jornada seja promissora, vamos estabelecer algumas regras.
 
-> **NOTA:** Não é lei, são somente boas práticas apar que todo o grupo possa crescer, caso deseje alterar alguma regra, faça um   **pull request!**
+> **NOTA:** Não é lei, são somente boas práticas para que todo o grupo possa crescer, caso deseje alterar alguma regra, faça um   **pull request!**
 
 #####**Já pesquisou no google?**
 Antes de perguntas nos grupos de discução, pesquise no google, vá em locais onde o as respostas vão ser mais rápidas e precisas.
