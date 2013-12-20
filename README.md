@@ -38,7 +38,7 @@ Antes de perguntas nos grupos de discução, pesquise no google, vá em locais o
  - Antes de perguntar, use a pesquisa do facebook para não duplicar a pergunta
  - Se a pergunta já foi feita, e ela não te respondeu, você pode:
      - Fazer uma nova pergunta referenciando a pergunta anterior
-     - Aproveirtar a mesma thread ṕara perguntar
+     - Aproveitar a mesma thread para perguntar
 
 ######Temas para perguntas
 
